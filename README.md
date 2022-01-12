@@ -4,8 +4,8 @@
 
 |  | README |
 | ------ | ------ |
-| Notion | [https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1][PlDb] |
-| solved_ac | [https://solved.ac/profile/akfmzh124][PlDb] |
+| Notion | https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1 |
+| solved_ac | https://solved.ac/profile/akfmzh124|
 
 <!--
 **Park-JeongHyun/Park-JeongHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
