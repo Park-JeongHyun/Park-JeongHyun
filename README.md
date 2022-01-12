@@ -2,7 +2,10 @@
 
 ### Hi there 👋
 
-**<a href="https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1 target="_blank"><img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&Naver&logoColor=000000"/></a>**
+|  | README |
+| ------ | ------ |
+| Notion | [https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1][PlDb] |
+| solved_ac | [https://solved.ac/profile/akfmzh124][PlDb] |
 
 <!--
 **Park-JeongHyun/Park-JeongHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
