@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Park%20Jeonghyun&fontSize=90)
+
 ### Hi there 👋
 
-<a href="https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1 target="_blank"><img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&Naver&logoColor=000000"/></a>
+**<a href="https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1 target="_blank"><img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&Naver&logoColor=000000"/></a>**
 
 <!--
 **Park-JeongHyun/Park-JeongHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
