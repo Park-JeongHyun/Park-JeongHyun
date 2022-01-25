@@ -7,6 +7,8 @@
 | Notion | https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1 |
 | solved_ac | https://solved.ac/profile/akfmzh124|
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-JeongHyun%2F&count_bg=%23A96302&title_bg=%23555555&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **Park-JeongHyun/Park-JeongHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
