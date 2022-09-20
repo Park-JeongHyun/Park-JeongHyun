@@ -10,7 +10,7 @@
 | ------ | ------ |
 | Git Blog | https://park-jeonghyun.github.io/ |
 | Notion | https://www.notion.so/Park-Jeonghyun-f52d3f4048c449b5907631960becaae1 |
-| solved_ac | https://solved.ac/profile/akfmzh124|
+
 
 <br>
 
